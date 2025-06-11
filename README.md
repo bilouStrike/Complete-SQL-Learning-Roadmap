@@ -12,11 +12,11 @@ Whether you're aiming to improve your backend skills, work with databases, or pr
 
 A visual roadmap with progress tracking is also available to help you stay organized and motivated.
 
-**Milestone 01: SQL Fundamentals**
+## Milestone 01: SQL Fundamentals
 
 Goal: Build a strong foundation in SQL by understanding relational databases, basic queries, and essential operations.
 
-# Unit 01: Introduction to SQL and Databases
+### Unit 01: Introduction to SQL and Databases
 
 >Goal: Understand the basics of relational databases and SQL syntax.
 
@@ -27,7 +27,7 @@ Goal: Build a strong foundation in SQL by understanding relational databases, ba
 * Creating and dropping tables
 * Practical exercise: Create a simple database with multiple tables and define appropriate data types and constraints.
 
-# Unit 02: Basic Data Manipulation
+### Unit 02: Basic Data Manipulation
 
 >Goal: Learn to insert, update, and delete data within tables.
 
@@ -37,7 +37,7 @@ Goal: Build a strong foundation in SQL by understanding relational databases, ba
 * TRUNCATE vs DELETE
 * Practical exercise: Populate your tables with sample data and perform update and delete operations.
 
-# Unit 03: Simple Queries and Filtering
+### Unit 03: Simple Queries and Filtering
 
 >Goal: Retrieve data using SELECT statements with various clauses.
 
@@ -48,7 +48,7 @@ Goal: Build a strong foundation in SQL by understanding relational databases, ba
 * ORDER BY clause
 * Practical exercise: Write queries to retrieve specific data based on conditions and sort the results.
 
-# Unit 04: Functions and Expressions
+### Unit 04: Functions and Expressions
 
 >Goal: Utilize built-in SQL functions for data processing.
 
@@ -58,11 +58,11 @@ Goal: Build a strong foundation in SQL by understanding relational databases, ba
 * Mathematical functions (ROUND, CEIL, FLOOR)
 * Practical exercise: Apply various functions to manipulate and analyze data in your tables.
 
-**Milestone 02: Intermediate SQL Concepts**
+## Milestone 02: Intermediate SQL Concepts
 
 Goal: Enhance your SQL skills by learning about joins, subqueries, and data grouping techniques.
 
-# Unit 01: Joining Tables
+### Unit 01: Joining Tables
 
 >Goal: Combine data from multiple tables using different types of joins.
 
@@ -73,7 +73,7 @@ Goal: Enhance your SQL skills by learning about joins, subqueries, and data grou
 * CROSS JOIN
 * Practical exercise: Write queries that join multiple tables to retrieve comprehensive datasets.
 
-# Unit 02: Grouping and Aggregating Data
+### Unit 02: Grouping and Aggregating Data
 
 >Goal: Summarize data using GROUP BY and HAVING clauses.
 
@@ -82,7 +82,7 @@ Goal: Enhance your SQL skills by learning about joins, subqueries, and data grou
 * Combining GROUP BY with aggregate functions
 * Practical exercise: Generate summary reports, such as total sales per region or average scores per class.
 
-# Unit 03: Subqueries and Nested Queries
+### Unit 03: Subqueries and Nested Queries
 
 >Goal: Use subqueries to perform complex data retrievals.
 
@@ -91,7 +91,7 @@ Goal: Enhance your SQL skills by learning about joins, subqueries, and data grou
 * EXISTS and NOT EXISTS operators
 * Practical exercise: Create queries that utilize subqueries to filter and compute data.
 
-# Unit 04: Set Operations and Views
+### Unit 04: Set Operations and Views
 
 >Goal: Perform operations on multiple query results and create virtual tables.
 
@@ -101,11 +101,11 @@ Goal: Enhance your SQL skills by learning about joins, subqueries, and data grou
 * Creating and managing views
 * Practical exercise: Combine results from different queries and create views for simplified data access.
 
-**Milestone 03: Advanced SQL Techniques**
+## Milestone 03: Advanced SQL Techniques
 
 Goal: Master advanced SQL features, including indexing, transactions, and performance optimization.
 
-# Unit 01: Indexing and Performance Tuning
+### Unit 01: Indexing and Performance Tuning
 
 >Goal: Improve query performance through indexing and analysis.
 
@@ -115,7 +115,7 @@ Goal: Master advanced SQL features, including indexing, transactions, and perfor
 * Optimizing queries for better performance
 * Practical exercise: Add indexes to your tables and compare query performance before and after indexing.
 
-# Unit 02: Transactions and Concurrency Control
+### Unit 02: Transactions and Concurrency Control
 
 >Goal: Manage data integrity and consistency using transactions.
 
@@ -125,7 +125,7 @@ Goal: Master advanced SQL features, including indexing, transactions, and perfor
 * Handling concurrent transactions
 * Practical exercise: Implement transactions to ensure data consistency during complex operations.
 
-# Unit 03: Stored Procedures and Triggers
+### Unit 03: Stored Procedures and Triggers
 
 >Goal: Automate tasks and enforce rules using procedural SQL.
 
@@ -134,7 +134,7 @@ Goal: Master advanced SQL features, including indexing, transactions, and perfor
 * Use cases for procedures and triggers
 * Practical exercise: Develop stored procedures and triggers to automate data validation and logging.
 
-# Unit 04: Advanced Query Techniques
+### Unit 04: Advanced Query Techniques
 
 >Goal: Explore complex query constructs for sophisticated data analysis.
 
