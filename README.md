@@ -1,4 +1,4 @@
-# Complete-SQL-Learning-Roadmap
+# Complete SQL Learning Roadmap
 ## Master SQL from basics to advanced topics with this structured roadmap, covering queries, joins, subqueries, indexing, transactions, and performance tuning.
 
 ### 🎯 Stay on Track with Visual Progress Version To help you stay focused and consistent in your learning journey, use this [Visual SQL Roadmap with Progress Tracking](https://www.onepin.io/roadmap/Complete-SQL-Learning-Roadmap:-Beginner-to-Advanced-Guide-for-Mastering-SQL-in-Real-World-Applications-683819d075fb378bff480a01)
